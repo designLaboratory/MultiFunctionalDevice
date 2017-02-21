@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=c7-1
+Removed Pin From Net: NetName=VCC Pin=c7-2
+Removed Pin From Net: NetName=GND Pin=c8-1
+Removed Pin From Net: NetName=VCC Pin=c8-2
+Removed Pin From Net: NetName=GND Pin=c9-1
+Removed Pin From Net: NetName=VCC Pin=c9-2
+Removed Pin From Net: NetName=GND Pin=c10-1
+Removed Pin From Net: NetName=VCC Pin=c10-2
+Removed Pin From Net: NetName=GND Pin=c11-1
+Removed Pin From Net: NetName=VCC Pin=c11-2
+Removed Pin From Net: NetName=GND Pin=c12-1
+Removed Pin From Net: NetName=VCC Pin=c12-2
+Removed Member From Class: ClassName=Schematic_PixelRing Member=c7
+Removed Member From Class: ClassName=Schematic_PixelRing Member=c8
+Removed Member From Class: ClassName=Schematic_PixelRing Member=c9
+Removed Member From Class: ClassName=Schematic_PixelRing Member=c10
+Removed Member From Class: ClassName=Schematic_PixelRing Member=c11
+Removed Member From Class: ClassName=Schematic_PixelRing Member=c12
+Added Room: Name=Schematic_PixelRing

@@ -1,0 +1,15 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PixelRing24.PrjPcb]
+   Generated File[Board_PixelRing.GTL]
+   Generated File[Board_PixelRing.GTO]
+   Generated File[Board_PixelRing.GTS]
+   Generated File[Board_PixelRing.RUL]
+   Generated File[Board_PixelRing.EXTREP]
+   Generated File[Board_PixelRing.REP]
+
+
+Files Generated   : 6
+Documents Printed : 0
+
+Finished Output Generation At 01:04:31 On 19.12.2016
